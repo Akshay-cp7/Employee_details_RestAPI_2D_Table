@@ -12,7 +12,7 @@ import java.util.Map;
 @RestController
 @RequestMapping("/cloudemployee")
 public class CloudEmployeeAPIService {
-
+//A Map called employees is created to store CloudEmployee objects.
     private static final Map<String, CloudEmployee> employees = new HashMap<>();
 
     static {
