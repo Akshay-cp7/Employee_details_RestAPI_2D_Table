@@ -1,9 +1,9 @@
 - This is the continuation of my previous repository, now added more contents in the table, converted 1D structure to 2D Tables with the help of map
 
 you can now store datas like this:
-        - employees.put("E1", new CloudEmployee("E1", "Arun", 3000, "sales"));
-        - employees.put("E2", new CloudEmployee("E2", "Amal", 4000, "sales"));
-        - employees.put("E3", new CloudEmployee("E3", "Vimal", 2000, "HR"));
+- employees.put("E1", new CloudEmployee("E1", "Arun", 3000, "sales"));
+- employees.put("E2", new CloudEmployee("E2", "Amal", 4000, "sales"));
+- employees.put("E3", new CloudEmployee("E3", "Vimal", 2000, "HR"));
         
 and works by changing the URI:
 - http://localhost:8080/cloudemployee/E1
