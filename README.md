@@ -1,14 +1,15 @@
 # About
-- This is the continuation of my previous repository, now added more contents in the table, converted 1D structure to 2D Tables with the help of map
+- This is the continuation of my previous repository, now added more contents in the table, **converted 1D structure to 2D Tables** with the help of map
 
 # Changes
 you can now store datas like this:
 - employees.put("E1", new CloudEmployee("E1", "Arun", 3000, "sales"));
 - employees.put("E2", new CloudEmployee("E2", "Amal", 4000, "sales"));
 - employees.put("E3", new CloudEmployee("E3", "Vimal", 2000, "HR"));
+- **Feel Free to add more in the code**
 
 # How it works     
-and works by changing the URI:
+Works by changing the URI:
 - http://localhost:8080/cloudemployee/E1
 - http://localhost:8080/cloudemployee/E2
 - http://localhost:8080/cloudemployee/E3
@@ -27,5 +28,7 @@ and works by changing the URI:
 
 
 # Refer this
-Code written on intellij with help of springboot. java version : 21, Dependancy : Spring web,
-check out my previous code for one diamentional table,
+- Code written on intellij with help of springboot
+- java version : 21
+- Dependancy : Spring web
+- check out my previous code for one diamentional table
